@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">belajar</string>
+    <string name="dummy_photos">dummy_photos</string>
+    <string name="foto">foto</string>
+    <string name="dummy_value">dummy value</string>
+    <string name="stock">stock</string>
+    <string name="text1">Ayo dibeli Hanphone murah, Jalan Pertamina NO 012 </string>
+    <string name="text2">RP.50.000</string>
+    <string name="text3">text3</string>
+    <string name="text4">text4</string>
+    <string name="text5">text5</string>
+    <string name="text6">text6</string>
+    <string name="text7">text7</string>
+    <string name="text8">Mahasiswa </string>
+    <string name="Github">Github : https://github.com/jihanaferiansyah</string>
+    <string name="Email">Email : jihanaferian@gmail.com</string>
+    <string name="Username">User Name</string>
+    <string name="password">Password</string>
+    <string name="Youtube"><a href="https://www.youtube.com/channel/UCnYP-maF_KbO3DXNeZFmZGg">Get It Here </a> </string>
+    <string name="applink">Looking for the regular Zesteve App?
+        <a href="https://play.google.com/store/apps/details?id=zesteve.com.myapplication">Get it here</a>
+    </string>
+
+    <string name="my_store">My store
+        <a href="https://play.google.com/store/search?q=arjavax&amp;c=apps"> arjavax </a>
+    </string>
+
+    <string name="defaultpassword">User Guide
+    <a href="http://www.cleverfinger.com.au/user-guide/">http://www.cleverfinger.com.au/user-guide/</a>
+    </string>
+
+    <string name="arjava_blog">Arjava\'s Blog https://arjavax.blogspot.co.id/</string>
+
+    <string name="mix_link">Go Link
+    </string>
+
+    <string name="txtCredits">www.google.com</string>
+    <string name="jihan_aferiansyah">Jihan Aferiansyah</string>
+    <string name="_18_tahun">18 Tahun</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="islam">Islam</string>
+    <string name="teknik_informatika">Teknik Informatika</string>
+    <string name="Mahsiswa">Mahasiswa </string>
+    <string name="login">Login</string>
+    <string name="Login" > Login</string>
+    <string name="Password"> Passwoed</string>
+    <string name="sukses">Sukses</string>
+    <string name="masuk"> Masuk </string>
+</resources>
